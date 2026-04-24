@@ -1,0 +1,10 @@
+declare module 'lucide-react';
+declare module 'swiper/css';
+declare module 'swiper/css/effect-fade';
+declare module 'swiper/css/pagination';
+declare module 'swiper/css/navigation';
+declare module 'react-hot-toast';
+declare module 'framer-motion';
+declare module 'swiper';
+declare module 'swiper/modules';
+declare module '*.css';
